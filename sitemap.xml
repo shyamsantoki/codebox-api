@@ -2,27 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://shroominic.github.io/codebox-api/</loc>
-         <lastmod>2023-10-23</lastmod>
+         <lastmod>2023-10-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shroominic.github.io/codebox-api/api/</loc>
+         <lastmod>2023-10-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://shroominic.github.io/codebox-api/concepts/</loc>
-         <lastmod>2023-10-23</lastmod>
+         <lastmod>2023-10-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://shroominic.github.io/codebox-api/examples/</loc>
-         <lastmod>2023-10-23</lastmod>
+         <lastmod>2023-10-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://shroominic.github.io/codebox-api/installation/</loc>
-         <lastmod>2023-10-23</lastmod>
+         <lastmod>2023-10-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shroominic.github.io/codebox-api/settings/</loc>
+         <lastmod>2023-10-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://shroominic.github.io/codebox-api/usage/</loc>
-         <lastmod>2023-10-23</lastmod>
+         <lastmod>2023-10-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
