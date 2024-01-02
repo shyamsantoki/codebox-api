@@ -333,8 +333,6 @@ class LocalBox(BaseBox):
                 and received_msg["parent_header"]["msg_id"] == msg_id
                 and received_msg["content"]["execution_state"] == "idle"
             ):
-                if len(result) > 500:
-                    result = "[...]\n" + result[-500:]
                 return CodeBoxOutput(
                     type="text", content=result or "code run successfully (no output)"
                 )
@@ -441,8 +439,6 @@ class LocalBox(BaseBox):
                 and received_msg["parent_header"]["msg_id"] == msg_id
                 and received_msg["content"]["execution_state"] == "idle"
             ):
-                if len(result) > 500:
-                    result = "[...]\n" + result[-500:]
                 return CodeBoxOutput(
                     type="text", content=result or "code run successfully (no output)"
                 )
